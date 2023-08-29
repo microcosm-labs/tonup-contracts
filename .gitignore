@@ -1,0 +1,10 @@
+node_modules
+temp
+build
+
+contracts/test_func.fc
+scripts/deployTestFunc.ts
+scripts/incrementTestFunc.ts
+tests/TestFunc.spec.ts
+wrappers/TestFunc.compile.ts
+wrappers/TestFunc.ts
